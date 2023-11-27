@@ -3,7 +3,7 @@
 <details>
 <summary>Выпуск продукции из перемещения</summary>
 
-[Contribution guidelines for this project](отчеты/Выпуск продукции из перемещения.md)
+[Contribution guidelines for this project](Выпуск продукции из перемещения.md)
 
 </details>
 
