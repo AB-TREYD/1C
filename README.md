@@ -79,4 +79,9 @@
 
 
 <details>
-  <summary>ЦКПП</summary> </details>
+  <summary>ЦКПП</summary>
+  <details>
+  <summary> Сгруппированные заказы </summary> 
+  
+  </details>  
+</details>
