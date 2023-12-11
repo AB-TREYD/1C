@@ -82,6 +82,37 @@
   <summary>ЦКПП</summary>
   <details>
   <summary> Сгруппированные заказы </summary> 
+ </details> 
+
+  </details> 
+
+# Expert V <-> ERP
+<details>
+  <summary>Создание заказа из ERP</summary>
   
-  </details>  
+  [Отправка заказа](ERP/Расширения/ВсёВОдном/ЗаказНаПроизводство.МодульОбъект.md?plain=1#L9)
+  
 </details>
+
+<details>
+  <summary>Пометка удаления заказов EV при пометке на удаление заказа на производство в ERP</summary>
+  
+  [Пометка на удаление](ERP/Расширения/ВсёВОдном/ЗаказНаПроизводство.МодульОбъект.md?plain=1#L33)
+  
+</details>
+
+<details>
+  <summary>Принятие заказов из ERP</summary>
+  
+  [Принятие заказов в EV](EV/HTTP-сервисы/Заказы.md?plain=1#L1)
+  
+</details>
+<details>
+  <summary>Принятие заказов из ERP</summary>
+  
+  [Создание документа в EV](EV/Общие%20Модули/Формирование%20рабочих%20массивов.md?plain=1#L1)
+  
+</details>
+
+
+
