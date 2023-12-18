@@ -82,7 +82,19 @@
   <summary>ЦКПП</summary>
   <details>
   <summary> Сгруппированные заказы </summary> 
- </details> 
+
+ 
+
+ 
+  [Актуализация Сгруппированных заказов с Excel](EV/Сгруппированные%20заказы/ФормаСписка.СинхронизацияСExcel.md)
+         
+  </details>  
+
+</details>
+  
+  
+  
+  </details> 
 
   </details> 
 
@@ -115,15 +127,8 @@
   [Запросы на заполнение из ERP](EV/HTTP-сервисы/ЗаменаСтрокЗаказов.md?plain=1#L58)
   
   [Запись на удаление в EV](EV/HTTP-сервисы/ЗаменаСтрокЗаказов.md?plain=1#L58)
-  
+ </details>
       
-  
-</details>
-<details>
-  <summary>Принятие заказов из ERP</summary>
-  
-  
-</details>
 
 
 
