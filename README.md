@@ -60,6 +60,21 @@
 </details>
 </details>
 
+<details>
+  <summary>Склад и доставка</summary>
+  <details>
+    <summary>ОИТС</summary>
+    <details>
+      <summary>Документы</summary>
+      <details>
+        <summary>ВнутреннееПотребление</summary>
+        [Модуль объекта](ERP/Расширения/ОИТС/Документы/ВнутреннееПотребление/МодульОбъекта.md)
+        [Форма документа](ERP/Расширения/ОИТС/Документы/ВнутреннееПотребление/ФормаДокумента.md)    
+      </details>
+    </details>
+  </details>
+</details>
+
 # Expert V
 <details>
   <summary>ЦПМ</summary>
