@@ -95,9 +95,10 @@
     </details>
     <details>
       <summary>Общие модули</summary>
-      
+
   [ОИТС_УчетТМЦ](ERP/Расширения/ОИТС/Общие модули/ОИТС_УчетТМЦ.md)
-    </details>
+  
+   </details>
   </details>
 </details>
 
